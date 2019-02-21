@@ -1,3 +1,3 @@
 # sistema-lembrete
 
-Rodar no terminal do nugget package Update-Database para as Migrations
+Rodar no terminal do Package Manager Console Update-Database para as Migrations
